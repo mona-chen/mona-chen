@@ -1,8 +1,9 @@
-![](https://raw.githubusercontent.com/mona-chen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mona-chen/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/mona-chen/git-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mona-chen/git-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/mona-chen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mona-chen/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/mona-chen/git-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mona-chen/git-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 ### Hi there 👋
 
