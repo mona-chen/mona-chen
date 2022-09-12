@@ -17,6 +17,5 @@ Welcome to my github profile, i'm super excited to meet you, here. I'm a Fullsta
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Javascript, NodeJS, Laravel, PHP, ESP32, Arduino, and Everything IoT.
 - 📫 How to reach me: you can email me on monaoffice20@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 😄 Pronouns: Him, He, His, and Odogwu 🤣
+- ⚡ Fun fact: i dont really know what's fun bout me, i guess you'll find out 😉
