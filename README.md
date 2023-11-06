@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/mona-chen/git-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mona-chen/git-stats/master/generated/languages.svg#gh-light-mode-only)
 
-
+[![wakatime](https://wakatime.com/badge/user/a0072253-d7cd-49c1-8ea4-3558d5f7b8e7.svg)](https://wakatime.com/@a0072253-d7cd-49c1-8ea4-3558d5f7b8e7)
 ### Hi there 👋
 
 Welcome to my github profile, i'm super excited to meet you, here. I'm a Fullstack NodeJS engineer with additional experience in DevOps engineering, Cloud CLI, AWS, GCP, Azure and Digital Ocean, Linux Engineering, Kernel Tweaking and more, I'm an Electrical Electronics Engineering graduate, with a very cool spot for robotics, and IoT development.
