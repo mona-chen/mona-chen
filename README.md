@@ -10,7 +10,7 @@ Welcome to my github profile, i'm super excited to meet you, here. I'm a Fullsta
 
  
 
-- 🔭 I’m currently working with Elatech, and we are building some really great fintech products, take a look at some of them here @ https://getravenbank.com and https://roqqu.com
+<!--  - 🔭 I’m currently working with Elatech, and we are building some really great fintech products, take a look at some of them here @ https://getravenbank.com and https://roqqu.com -->
 
 - 🌱 I’m currently learnin flutter and getting better at MERN
 - 👯 I’m looking to collaborate on projects with very good use cases.
