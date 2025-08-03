@@ -1,21 +1,45 @@
-![](https://raw.githubusercontent.com/mona-chen/git-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mona-chen/git-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/mona-chen/git-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mona-chen/git-stats/master/generated/languages.svg#gh-light-mode-only)
-
-[![wakatime](https://wakatime.com/badge/user/a0072253-d7cd-49c1-8ea4-3558d5f7b8e7.svg)](https://wakatime.com/@a0072253-d7cd-49c1-8ea4-3558d5f7b8e7)
 ### Hi there 👋
 
-Welcome to my github profile, i'm super excited to meet you, here. I'm a Fullstack NodeJS engineer with additional experience in DevOps engineering, Cloud CLI, AWS, GCP, Azure and Digital Ocean, Linux Engineering, Kernel Tweaking and more, I'm an Electrical Electronics Engineering graduate, with a very cool spot for robotics, and IoT development.
+Welcome to my GitHub profile! I’m **Ezeani Emmanuel**, a Senior Software Engineer and serial founder passionate about building robust, scalable systems and transformative digital products. As the **CTO & Co-Founder of Ruut CSM**, I lead the development of cutting-edge customer support solutions powering business growth across Africa and beyond[1][2].
 
- 
+#### 🚩 About Me
+- **CTO & Co-Founder, Ruut CSM:** Spearheading innovation in customer support technology—building tools that unify communication (across chat, email, social media), deliver advanced analytics, automation, and an AI-powered knowledge base for modern teams.
+- **Builder at Heart:** Deep experience architecting full-stack systems, product management, and shipping life-transforming products for sectors including fintech, SaaS, and IoT.
+- **Startup & Product Leadership:** Founder of Paymable Africa and Birdsenger (email marketing platform); previously CTO at FoodNow & Product Developer at Prima Finance[1].
+- **Industry Impact:** Ruut customer support tools have driven real business results for users— like a 78% increase in productivity, improved customer trust, retention, and satisfaction for B2B and B2C clients across Nigeria[2].
 
-<!--  - 🔭 I’m currently working with Elatech, and we are building some really great fintech products, take a look at some of them here @ https://getravenbank.com and https://roqqu.com -->
+#### 💡 Technologies & Interests
+- **Programming:** JavaScript, TypeScript, Python, Go, Ruby, PHP, NodeJS, MERN, and more.
+- **Cloud & DevOps:** AWS, GCP, Azure, Digital Ocean, Linux engineering, kernel tweaking.
+- **Product & AI:** Product management, automation, analytics, customer messaging, and AI-powered solutions.
+- **IoT & Hardware:** ESP32, Arduino, embedded systems, robotics.
+- **Open Source:** Always open to collaborating on high-impact projects.
 
-- 🌱 I’m currently learnin flutter and getting better at MERN
-- 👯 I’m looking to collaborate on projects with very good use cases.
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Javascript, NodeJS, Laravel, PHP, ESP32, Arduino, and Everything IoT.
-- 📫 How to reach me: you can email me on monaoffice20@gmail.com
-- 😄 Pronouns: Him, He, His, and Odogwu 🤣
-- ⚡ Fun fact: i dont really know what's fun bout me, i guess you'll find out 😉
+#### 📈 My Startup: Ruut CSM
+- **What we do:** Ruut CSM is your one-stop platform for customer engagement—offering a unified inbox, real-time analytics, powerful automation, and seamless integrations. Businesses use Ruut to build better customer relationships, with world-class tools at affordable, local-friendly prices[2].
+- **Customer testimonials highlight:** Faster support, tailored automation, efficiency gains, and a stronger competitive edge for users.
+
+#### 🌱 Lifelong Learner
+- Embracing new stacks (Flutter, AI/ML, modern cloud architectures).
+- Proactive about best practices in security, DevOps, scalability, and team building.
+
+#### 🤝 Let’s Connect!
+- Passionate about mentorship, code reviews, and real-world impact collaborations.
+- Open for tech talks and partnerships.
+
+#### 💬 Ask me about
+- **Software engineering, startup building, customer support innovation, DevOps, IoT, and more.**
+
+#### 📫 Reach Out
+- Email: monaoffice20@gmail.com
+- Linkedin: https://ng.linkedin.com/in/ezeani-emmanuel
+- Find more about me and my work by searching **Ezeani Emmanuel Ruut CSM**.
+
+#### 😄 Pronouns
+- He/Him/His, Odogwu 🤣
+
+#### ⚡ Fun Fact
+- There’s always something new I’m exploring—maybe you’ll discover it before I do!
+
+Thanks for visiting—let’s build something extraordinary together!
+
